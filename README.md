@@ -8,6 +8,10 @@ A FAQ on secure application development and acquisition
 #### Static analysis tooling
 (not tested)
 - Codacy (github/gitlab code scanner) https://www.codacy.com
+### TEST
+#### Authentication testing
+(not tested)
+- Blazy - bruteforcer (https://github.com/s0md3v/Blazy)
 ## Other stuff
 ### Convincing the pessimist crowd
 (not tested)
