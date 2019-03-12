@@ -1,18 +1,21 @@
 # Application security FAQ
 A FAQ on secure application development and acquisition
+## Vendor qualification
+- [Vendor questionnaire](https://docs.google.com/document/d/1idP1gGuEgeinoL6m_hsZ8lQ8wz64BeI-S53n_9kwMkU) at Mozilla
+- [Vendor questionnaire](https://github.com/google/vsaq) at Google
 ## SDLC
 ### BUILD
 #### Coding guidelines
-- Django (https://dzone.com/articles/protect-your-django-web-application-from-security-1)
-- Django (https://docs.djangoproject.com/en/2.1/topics/security/)
+- [Django secure coding](https://dzone.com/articles/protect-your-django-web-application-from-security-1) - Dzone.com
+- [Django secure coding](https://docs.djangoproject.com/en/2.1/topics/security/) - Djangoproject.com
 #### Static analysis tooling
 (not tested)
-- Codacy (github/gitlab code scanner) https://www.codacy.com
+- [Codacy](https://www.codacy.com) (github/gitlab code scanner)
 ### TEST
 #### Authentication testing
 (not tested)
-- Blazy - bruteforcer (https://github.com/s0md3v/Blazy)
+- [Blazy](https://github.com/s0md3v/Blazy) - bruteforcer 
 ## Other stuff
 ### Convincing the pessimist crowd
 (not tested)
-- LinuxFlaw: a repo of reproduced Linux vulnerabilities (https://github.com/VulnReproduction/LinuxFlaw)
+- [LinuxFlaw](https://github.com/VulnReproduction/LinuxFlaw): a repo of reproduced Linux vulnerabilities
