@@ -15,6 +15,10 @@ A FAQ on secure application development and acquisition
 #### Authentication testing
 (not tested)
 - [Blazy](https://github.com/s0md3v/Blazy) - bruteforcer 
+## OPS
+### Respond
+- [The Hive](https://thehive-project.org/) - Case management
+- [Timesketch](https://github.com/google/timesketch) - Timeline visualization
 ## Other stuff
 ### Convincing the pessimist crowd
 (not tested)
