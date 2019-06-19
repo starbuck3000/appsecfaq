@@ -14,7 +14,9 @@ A FAQ on secure application development and acquisition
 ### TEST
 #### Authentication testing
 (not tested)
-- [Blazy](https://github.com/s0md3v/Blazy) - bruteforcer 
+- [Blazy](https://github.com/s0md3v/Blazy) - bruteforcer
+- [Burp extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - a curated list of Burp extensions
+
 ## OPS
 ### Respond
 - [The Hive](https://thehive-project.org/) - Case management
