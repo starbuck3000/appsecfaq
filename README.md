@@ -25,3 +25,6 @@ A FAQ on secure application development and acquisition
 ### Convincing the pessimist crowd
 (not tested)
 - [LinuxFlaw](https://github.com/VulnReproduction/LinuxFlaw): a repo of reproduced Linux vulnerabilities
+### One-day useful tools
+(not tested)
+- [ASN1 Javascript parser(http://lapo.it/asn1js/): a visual parser of DER/CER encoded strings
