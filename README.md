@@ -11,6 +11,8 @@ A FAQ on secure application development and acquisition
 #### Static analysis tooling
 (not tested)
 - [Codacy](https://www.codacy.com) (github/gitlab code scanner)
+- [Android application pentesting guide](https://nightowl131.github.io/AAPG/)
+
 ### TEST
 #### Authentication testing
 (not tested)
