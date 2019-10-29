@@ -20,6 +20,9 @@ A FAQ on secure application development and acquisition
 - [Burp extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - a curated list of Burp extensions
 
 ## OPS
+### Detect
+- [SSHGit](https://github.com/eth0izzle/shhgit/) - Detect hard-coded secrets in code repositories
+
 ### Respond
 - [The Hive](https://thehive-project.org/) - Case management
 - [Timesketch](https://github.com/google/timesketch) - Timeline visualization
