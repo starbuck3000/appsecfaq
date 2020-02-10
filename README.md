@@ -19,6 +19,9 @@ A FAQ on secure application development and acquisition
 - [Blazy](https://github.com/s0md3v/Blazy) - bruteforcer
 - [Burp extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - a curated list of Burp extensions
 
+### Protocol testing
+- [Maproxy](https://pypi.org/project/maproxy/) - TCP injection proxy
+
 ## OPS
 ### Detect
 - [SSHGit](https://github.com/eth0izzle/shhgit/) - Detect hard-coded secrets in code repositories
@@ -26,6 +29,7 @@ A FAQ on secure application development and acquisition
 ### Respond
 - [The Hive](https://thehive-project.org/) - Case management
 - [Timesketch](https://github.com/google/timesketch) - Timeline visualization
+
 ## Other stuff
 ### Convincing the pessimist crowd
 (not tested)
