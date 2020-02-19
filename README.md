@@ -46,6 +46,9 @@ Sensitive cookies (e.g. session cookie) should be protected *at least* with the 
 Access to localStorage/sessionStorage objects is filtered per origin, similar to a SOP. Only code running from the same origin itself can access the content of the local storage. If "secure" meant "protected from XSS attacks", the answer is no: local storage can be manipulated when under a successful XSS attack. As a principle, storage of confidential/sensitive data in localStorage/sessionStorage should be avoided.
 
 ## Other stuff
+### How to show things? (data vizualisation)
+- [VivaGraphJS](https://github.com/anvaka/VivaGraphJS) : a library to visualize graphs / connected stuff.
+
 ### How to convince the pesimistic crowd?
 (not tested)
 - [LinuxFlaw](https://github.com/VulnReproduction/LinuxFlaw): a repo of reproduced Linux vulnerabilities
