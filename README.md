@@ -12,6 +12,8 @@ A FAQ on secure application development and acquisition
 (not tested)
 - [Codacy](https://www.codacy.com) (github/gitlab code scanner)
 - [Android application pentesting guide](https://nightowl131.github.io/AAPG/)
+- [Psalm](https://psalm.dev/docs/running_psalm/installation/) (PHP static analyser)
+
 
 ### TEST
 #### How can I test for authentication?
