@@ -4,6 +4,23 @@ A FAQ on secure application development and acquisition
 - [Vendor questionnaire](https://docs.google.com/document/d/1idP1gGuEgeinoL6m_hsZ8lQ8wz64BeI-S53n_9kwMkU) at Mozilla
 - [Vendor questionnaire](https://github.com/google/vsaq) at Google
 ## SDLC
+### DESIGN
+#### What fundamental principles should I follow?
+- [NIST SP800-160: Systems Security Engineering](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1/final) - nist.gov
+- Principles (subset):
+  - Least Privilege (deny by default)
+  - Defense in depth
+  - Minimized sharing
+  - Trusted components
+  - Trusted communication channels
+  - Trusted input
+  - Secure defaults
+  - Accountability and traceability
+  - Secure failure and recovery
+  - Acceptable security
+  - Human factored security
+  - Repeatable security
+
 ### BUILD
 #### Were can I find coding guidelines?
 - [Django secure coding](https://dzone.com/articles/protect-your-django-web-application-from-security-1) - Dzone.com
