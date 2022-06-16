@@ -22,14 +22,15 @@ A FAQ on secure application development and acquisition
   - Repeatable security
 
 ### BUILD
-#### Were can I find coding guidelines?
+#### Where can I find coding guidelines?
 - [Django secure coding](https://dzone.com/articles/protect-your-django-web-application-from-security-1) - Dzone.com
 - [Django secure coding](https://docs.djangoproject.com/en/2.1/topics/security/) - Djangoproject.com
-#### Were can I find static analysis tools?
+#### Where can I find static analysis tools?
 (not tested)
 - [Codacy](https://www.codacy.com) (github/gitlab code scanner)
 - [Android application pentesting guide](https://nightowl131.github.io/AAPG/)
-- [Psalm](https://psalm.dev/docs/running_psalm/installation/) (PHP static analyser)
+- [PHPstan](https://github.com/phpstan/phpstan) - PHP static analyzer
+- [Psalm](https://psalm.dev/docs/running_psalm/installation/) (PHP static analyzer)
 
 
 ### TEST
