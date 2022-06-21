@@ -43,7 +43,10 @@ A FAQ on secure application development and acquisition
 - [Maproxy](https://pypi.org/project/maproxy/) - TCP injection proxy
 
 ## OPS
-### Is there a way to scan our repositories for hard-coded secrets?
+### How to scan my workloads for configuration errors or weaknesses?
+- [Prowler](https://github.com/prowler-cloud/prowler) - Detect configuration errors and weaknesses in AWS workloads
+ 
+### How to scan code repositories for hard-coded secrets?
 - [SSHGit](https://github.com/eth0izzle/shhgit/) - Detect hard-coded secrets in code repositories
 
 ### Are there tools to help me respond to an incident?
