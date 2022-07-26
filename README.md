@@ -45,6 +45,7 @@ A FAQ on secure application development and acquisition
 ## OPS
 ### How to scan my workloads for configuration errors or weaknesses?
 - [Prowler](https://github.com/prowler-cloud/prowler) - Detect configuration errors and weaknesses in AWS workloads
+- [Trivy](https://github.com/aquasecurity/trivy) - Detects vulnerabilities and hard-coded secrets in container images, git repos
  
 ### How to scan code repositories for hard-coded secrets?
 - [SSHGit](https://github.com/eth0izzle/shhgit/) - Detect hard-coded secrets in code repositories
