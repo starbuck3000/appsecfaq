@@ -32,7 +32,7 @@ A FAQ on secure application development and acquisition
 - [PHPstan](https://github.com/phpstan/phpstan) - PHP static analyzer
 - [Psalm](https://psalm.dev/docs/running_psalm/installation/) (PHP static analyzer)
 
-### Where/how can I generate an SBOM (software bill of materials)?
+#### Where/how can I generate an SBOM (software bill of materials)?
 - [Syft](https://github.com/anchore/syft) - A tool for generating the SBOM from container images and filesystems
 
 ### TEST
