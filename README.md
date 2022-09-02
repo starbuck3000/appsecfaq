@@ -3,9 +3,8 @@ A FAQ on secure application development and acquisition
 ## How to evaluate a Vendor?
 - [Vendor questionnaire](https://docs.google.com/document/d/1idP1gGuEgeinoL6m_hsZ8lQ8wz64BeI-S53n_9kwMkU) at Mozilla
 - [Vendor questionnaire](https://github.com/google/vsaq) at Google
-## SDLC
-### DESIGN
-#### What fundamental principles should I follow?
+## DESIGN
+### What fundamental principles should I follow?
 - [NIST SP800-160: Systems Security Engineering](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1/final) - nist.gov
 - Principles (subset):
   - Least Privilege (deny by default)
@@ -21,27 +20,27 @@ A FAQ on secure application development and acquisition
   - Human factored security
   - Repeatable security
 
-### BUILD
-#### Where can I find coding guidelines?
+## BUILD
+### Where can I find coding guidelines?
 - [Django secure coding](https://dzone.com/articles/protect-your-django-web-application-from-security-1) - Dzone.com
 - [Django secure coding](https://docs.djangoproject.com/en/2.1/topics/security/) - Djangoproject.com
-#### Where can I find static analysis tools?
+### Where can I find static analysis tools?
 (not tested)
 - [Codacy](https://www.codacy.com) (github/gitlab code scanner)
 - [Android application pentesting guide](https://nightowl131.github.io/AAPG/)
 - [PHPstan](https://github.com/phpstan/phpstan) - PHP static analyzer
 - [Psalm](https://psalm.dev/docs/running_psalm/installation/) (PHP static analyzer)
 
-#### Where/how can I generate an SBOM (software bill of materials)?
+### Where/how can I generate an SBOM (software bill of materials)?
 - [Syft](https://github.com/anchore/syft) - A tool for generating the SBOM from container images and filesystems
 
-### TEST
+## TEST
 #### How can I test for authentication?
 (not tested)
 - [Blazy](https://github.com/s0md3v/Blazy) - bruteforcer
 - [Burp extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - a curated list of Burp extensions
 
-### How can I test against man-in-the-middle attacks?
+## How can I test against man-in-the-middle attacks?
 - [Maproxy](https://pypi.org/project/maproxy/) - TCP injection proxy
 
 ## OPS
@@ -74,6 +73,9 @@ Access to localStorage/sessionStorage objects is filtered per origin, similar to
 ## Cloud stuff
 ### Cloud workload security checklists / guidance
 - [Cloudsec Docs](https://cloudsecdocs.com/)
+
+### Container hardening / checklists
+- [Kubernetes security checklist](https://kubernetes.io/docs/concepts/security/security-checklist/)
 
 ## Other stuff
 ### How to show things? (data vizualisation)
