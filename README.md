@@ -51,12 +51,17 @@ A FAQ on secure application development and acquisition
 ### How do I test my apps for vulnerabilities?
 - [Chopchop](https://github.com/michelin/ChopChop) - Web application security scanner
 
-### How to scan my workloads for configuration errors or weaknesses?
+### How to verify everything is configured securely?
+- [ADOscanner](https://github.com/azsk/ADOScanner-docs) - Detects vulnerabilities in an Azure devops instance
+- [AzTS](https://github.com/azsk/AzTS-docs) - Azure tenant scanner, detects configuration vulnerabilities in an Azure tenant
 - [Checkov](https://www.checkov.io/) - Detects vulnerabilities in IaC code (e.g. Terraform)
 - [CloudQuery](https://github.com/quarkslab/kdigger) - Cloud data integration platform (includes security policies as baseline)
 - [KDigger](https://github.com/quarkslab/kdigger) - Detects vulnerabilities in Kubernetes instances
+- [KubeLinter](https://github.com/stackrox/kube-linter) - Detects flaws in Kubernetes YAML files and Helm charts
 - [Prowler](https://github.com/prowler-cloud/prowler) - Detect configuration errors and weaknesses in AWS workloads
 - [Scout suite](https://github.com/nccgroup/ScoutSuite) - Detects configuration errors in cloud control planes
+- [Terrascan](https://terrasolid.com/products/terrascan/) - Detects configuration weaknesses and errors in Terraform code
+- [Tfsec](https://github.com/aquasecurity/tfsec) - Detects config weaknesses and errors in Terraform code
 - [Trivy](https://github.com/aquasecurity/trivy) - Detects vulnerabilities and hard-coded secrets in container images, git repos
  
 ### How to scan code repositories for hard-coded secrets?
