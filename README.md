@@ -52,6 +52,7 @@ A FAQ on secure application development and acquisition
 - [Chopchop](https://github.com/michelin/ChopChop) - Web application security scanner
 
 ### How to scan my workloads for configuration errors or weaknesses?
+- [Checkov](https://www.checkov.io/) - Detects vulnerabilities in IaC code (e.g. Terraform)
 - [CloudQuery](https://github.com/quarkslab/kdigger) - Cloud data integration platform (includes security policies as baseline)
 - [KDigger](https://github.com/quarkslab/kdigger) - Detects vulnerabilities in Kubernetes instances
 - [Prowler](https://github.com/prowler-cloud/prowler) - Detect configuration errors and weaknesses in AWS workloads
