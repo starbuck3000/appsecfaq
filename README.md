@@ -34,22 +34,32 @@ A FAQ on secure application development and acquisition
 ### Where/how can I generate an SBOM (software bill of materials)?
 - [Syft](https://github.com/anchore/syft) - A tool for generating the SBOM from container images and filesystems
 
-## TEST
+## VERIFY
 #### How can I test for authentication?
 (not tested)
 - [Blazy](https://github.com/s0md3v/Blazy) - bruteforcer
 - [Burp extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - a curated list of Burp extensions
 
-## How can I test against man-in-the-middle attacks?
+### How can I test against man-in-the-middle attacks?
 - [Maproxy](https://pypi.org/project/maproxy/) - TCP injection proxy
 
-## OPS
+### How do I test my apps for vulnerabilities?
+- [Chopchop](https://github.com/michelin/ChopChop) - Web application security scanner
+
 ### How to scan my workloads for configuration errors or weaknesses?
+- [CloudQuery](https://github.com/quarkslab/kdigger) - Cloud data integration platform (includes security policies as baseline)
+- [KDigger](https://github.com/quarkslab/kdigger) - Detects vulnerabilities in Kubernetes instances
 - [Prowler](https://github.com/prowler-cloud/prowler) - Detect configuration errors and weaknesses in AWS workloads
+- [Scout suite](https://github.com/nccgroup/ScoutSuite) - Detects configuration errors in cloud control planes
 - [Trivy](https://github.com/aquasecurity/trivy) - Detects vulnerabilities and hard-coded secrets in container images, git repos
  
 ### How to scan code repositories for hard-coded secrets?
 - [SSHGit](https://github.com/eth0izzle/shhgit/) - Detect hard-coded secrets in code repositories
+
+## OPS
+
+### How do I generate SBOMs? 
+- [Kubeclarity](https://github.com/openclarity/kubeclarity) - Produces SBOMs and scans for vulnerabilities in container images
 
 ### Are there tools to help me respond to an incident?
 - [The Hive](https://thehive-project.org/) - Case management
