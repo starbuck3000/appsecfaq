@@ -51,6 +51,10 @@ A FAQ on secure application development and acquisition
 ### How do I test my apps for vulnerabilities?
 - [Chopchop](https://github.com/michelin/ChopChop) - Web application security scanner
 
+### How do I verify my code dependencies are secure?
+- [Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot) - Dependency checker integrated in GitHub
+- [Safety](https://pypi.org/project/safety/) - Dependency checker for Python
+
 ### How to verify everything is configured securely?
 - [ADOscanner](https://github.com/azsk/ADOScanner-docs) - Detects vulnerabilities in an Azure devops instance
 - [AzTS](https://github.com/azsk/AzTS-docs) - Azure tenant scanner, detects configuration vulnerabilities in an Azure tenant
