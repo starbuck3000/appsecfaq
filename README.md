@@ -66,6 +66,7 @@ A FAQ on secure application development and acquisition
 - [Cloudsplaining](https://github.com/salesforce/cloudsplaining) - Detects IAM flaws in AWS
 - [Cloudsploit](https://github.com/aquasecurity/cloudsploit) - Detects configuration issues in public clouds
 - [CloudQuery](https://github.com/quarkslab/kdigger) - Cloud data integration platform (includes security policies as baseline)
+- [CloudTracker](https://github.com/duo-labs/cloudtracker) - Detects over-privileged accounts in AWS
 - [Dockle](https://github.com/goodwithtech/dockle) - Detects vulnerabilities in docker images
 - [Hadolint](https://github.com/hadolint/hadolint) - Detects vulnerabilities in DOCKERFILE files
 - [KDigger](https://github.com/quarkslab/kdigger) - Detects vulnerabilities in Kubernetes instances
