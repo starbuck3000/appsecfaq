@@ -56,6 +56,7 @@ A FAQ on secure application development and acquisition
 - [AzTS](https://github.com/azsk/AzTS-docs) - Azure tenant scanner, detects configuration vulnerabilities in an Azure tenant
 - [Checkov](https://www.checkov.io/) - Detects vulnerabilities in IaC code (e.g. Terraform)
 - [CloudQuery](https://github.com/quarkslab/kdigger) - Cloud data integration platform (includes security policies as baseline)
+- [Hadolint](https://github.com/hadolint/hadolint) - Detects vulnerabilities in DOCKERFILE files
 - [KDigger](https://github.com/quarkslab/kdigger) - Detects vulnerabilities in Kubernetes instances
 - [KubeLinter](https://github.com/stackrox/kube-linter) - Detects flaws in Kubernetes YAML files and Helm charts
 - [Prowler](https://github.com/prowler-cloud/prowler) - Detect configuration errors and weaknesses in AWS workloads
