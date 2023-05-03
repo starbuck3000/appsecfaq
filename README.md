@@ -71,6 +71,7 @@ A FAQ on secure application development and acquisition
 - [Hadolint](https://github.com/hadolint/hadolint) - Detects vulnerabilities in DOCKERFILE files
 - [KDigger](https://github.com/quarkslab/kdigger) - Detects vulnerabilities in Kubernetes instances
 - [KubeLinter](https://github.com/stackrox/kube-linter) - Detects flaws in Kubernetes YAML files and Helm charts
+- [Lunar](https://github.com/lateralblast/lunar) - Detects configuration errors or weaknesses in operating systems (host scan)
 - [Prowler](https://github.com/prowler-cloud/prowler) - Detect configuration errors and weaknesses in AWS workloads
 - [Scout suite](https://github.com/nccgroup/ScoutSuite) - Detects configuration errors in cloud control planes
 - [SkyArk](https://github.com/cyberark/SkyArk) - Detects shadow admins in AWS and Azure
