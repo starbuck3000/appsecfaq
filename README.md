@@ -85,6 +85,9 @@ A FAQ on secure application development and acquisition
 ### How do I generate SBOMs? 
 - [Kubeclarity](https://github.com/openclarity/kubeclarity) - Produces SBOMs and scans for vulnerabilities in container images
 
+### How do I generate inventories of my resources? (cloud)
+- [AWS Inventory](https://github.com/nccgroup/aws-inventory) - Generates an queriable inventory of resources in AWS account
+
 ### Are there tools to help me respond to an incident?
 - [The Hive](https://thehive-project.org/) - Case management
 - [Timesketch](https://github.com/google/timesketch) - Timeline visualization
