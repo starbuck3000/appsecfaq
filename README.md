@@ -29,13 +29,7 @@ A FAQ on secure application development and acquisition
 ### Where can I find coding guidelines?
 - [Django secure coding](https://dzone.com/articles/protect-your-django-web-application-from-security-1) - Dzone.com
 - [Django secure coding](https://docs.djangoproject.com/en/2.1/topics/security/) - Djangoproject.com
-### Where can I find static analysis tools?
-(not tested)
-- [Codacy](https://www.codacy.com) (github/gitlab code scanner)
-- [Android application pentesting guide](https://nightowl131.github.io/AAPG/)
-- [PHPstan](https://github.com/phpstan/phpstan) - PHP static analyzer
-- [Psalm](https://psalm.dev/docs/running_psalm/installation/) (PHP static analyzer)
-
+- 
 ### Where/how can I generate an SBOM (software bill of materials)?
 - [Syft](https://github.com/anchore/syft) - A tool for generating the SBOM from container images and filesystems
 
@@ -49,7 +43,15 @@ A FAQ on secure application development and acquisition
 - [Maproxy](https://pypi.org/project/maproxy/) - TCP injection proxy
 
 ### How do I test my apps for vulnerabilities?
+- [Android application pentesting guide](https://nightowl131.github.io/AAPG/)
 - [Chopchop](https://github.com/michelin/ChopChop) - Web application security scanner
+
+### How do I check my code for vulnerabilities and errors? (SAST tools)
+- [Bandit](https://github.com/PyCQA/bandit) - SAST for Python
+- [Codacy](https://www.codacy.com) - SAST in Github & Gitlab
+- [PHPstan](https://github.com/phpstan/phpstan) - SAST for PHP
+- [Psalm](https://psalm.dev/docs/running_psalm/installation/) - SAST for PHP
+
 
 ### How do I verify my code dependencies are secure?
 - [Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot) - Dependency checker integrated in GitHub
