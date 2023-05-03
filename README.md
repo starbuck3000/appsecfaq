@@ -34,7 +34,7 @@ A FAQ on secure application development and acquisition
 - [Syft](https://github.com/anchore/syft) - A tool for generating the SBOM from container images and filesystems
 
 ## VERIFY
-#### How can I test for authentication?
+### How do I test an authentication mechanism?
 (not tested)
 - [Blazy](https://github.com/s0md3v/Blazy) - bruteforcer
 - [Burp extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - a curated list of Burp extensions
