@@ -51,6 +51,7 @@ A FAQ on secure application development and acquisition
 - [Codacy](https://www.codacy.com) - SAST in Github & Gitlab
 - [PHPstan](https://github.com/phpstan/phpstan) - SAST for PHP
 - [Psalm](https://psalm.dev/docs/running_psalm/installation/) - SAST for PHP
+- [Semgrep](https://semgrep.dev/) - SAST for many languages
 
 
 ### How do I verify my code dependencies are secure?
