@@ -63,6 +63,7 @@ A FAQ on secure application development and acquisition
 - [AzTS](https://github.com/azsk/AzTS-docs) - Azure tenant scanner, detects configuration vulnerabilities in an Azure tenant
 - [Checkov](https://www.checkov.io/) - Detects vulnerabilities in IaC code (e.g. Terraform)
 - [Clair](https://github.com/quay/clair) - Detects vulnerabilities in container images
+- [CloudCustodian](https://cloudcustodian.io/) - Scans cloud platforms for policy violations (policies can be defined as YAML files)
 - [Cloudsplaining](https://github.com/salesforce/cloudsplaining) - Detects IAM flaws in AWS
 - [Cloudsploit](https://github.com/aquasecurity/cloudsploit) - Detects configuration issues in public clouds
 - [CloudQuery](https://github.com/quarkslab/kdigger) - Cloud data integration platform (includes security policies as baseline)
