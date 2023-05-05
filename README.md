@@ -74,6 +74,7 @@ A FAQ on secure application development and acquisition
 - [KubeLinter](https://github.com/stackrox/kube-linter) - Detects flaws in Kubernetes YAML files and Helm charts
 - [Lunar](https://github.com/lateralblast/lunar) - Detects configuration errors or weaknesses in operating systems (host scan)
 - [Prowler](https://github.com/prowler-cloud/prowler) - Detect configuration errors and weaknesses in AWS workloads
+- [ROADTools](https://github.com/dirkjanm/ROADtools) - Builds a queriable set of meta-data about an Azure AD instance
 - [Scout suite](https://github.com/nccgroup/ScoutSuite) - Detects configuration errors in cloud control planes
 - [SkyArk](https://github.com/cyberark/SkyArk) - Detects shadow admins in AWS and Azure
 - [Terrascan](https://terrasolid.com/products/terrascan/) - Detects configuration weaknesses and errors in Terraform code
